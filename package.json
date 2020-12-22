@@ -19,7 +19,7 @@
     "url": "git@github.com:ThreeRon/RN-COM.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://registry.npmjs.org/"
   },
   "peerDependencies": {
     "react-native": "^0.41.2",
